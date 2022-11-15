@@ -1,0 +1,11 @@
+{
+  "email": "hello@cypress.io",
+  "password": "12345678",
+  "incorrectEmail": "hellocypress.io",
+  "incorrectPassword": "1234567",
+  "nonExistingUserMessage": "Login was unsuccessful",
+  "incorrectEmailMessage": "The Login field is not a valid e-mail address.",
+  "shortPasswordMessage": "The field Password must be a string or array type with a minimum length of '8'.",
+  "emptyLoginFieldMessage": "The Login field is required.",
+  "emptyPasswordFieldMessage": "The Password field is required."
+}
